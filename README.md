@@ -13,3 +13,18 @@ This  project is an online marketplace made to create a platform that connects p
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** EJS, Express
 - **Deployment:** Render
+# Installation
+Provide instructions on how to set up the project locally. Include any prerequisites, installation commands, and steps to run the project.
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/airbnb-project.git
+
+# Navigate to the project directory
+cd airbnb-project
+
+# Install dependencies
+npm install
+
+# Run the application
+nodemon app.js
